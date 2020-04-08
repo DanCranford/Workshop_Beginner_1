@@ -1,0 +1,1 @@
+https://baygeo-python-spring19.s3-us-west-1.amazonaws.com/Python_Beginner_Session_1.mp4
